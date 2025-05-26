@@ -1,4 +1,4 @@
-#  **Sales Prediction App** built using Streamlit and trained models:
+#  **Sales Prediction App** built using trained models and deployed with streamlit:
 
 ---
 
