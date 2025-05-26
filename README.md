@@ -2,7 +2,7 @@
 
 ---
 
-````markdown
+
 ### 🛍️ Sales Prediction App
 
 This is a simple web application built using [Streamlit](https://streamlit.io/) that allows users to predict **sales amounts** based on key product, demographic, and pricing features. It supports two types of machine learning models: **Random Forest** and **Linear Regression**.
@@ -26,8 +26,6 @@ This is a simple web application built using [Streamlit](https://streamlit.io/) 
   ```bash
   pip install streamlit pandas joblib scikit-learn
 ````
-
----
 
 ## 🧠 Models Used
 
