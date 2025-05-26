@@ -4,8 +4,8 @@ import pandas as pd
 import joblib
 
 # Load models
-rf_model = joblib.load("random_forest_model.pkl")
-lin_model = joblib.load("linear_model.pkl")
+rf_model = joblib.load("Sales_Prediction_Model/random_forest_model.pkl")
+lin_model = joblib.load("Sales_Prediction_Model/linear_model.pkl")
 
 st.title("Sales Prediction App")
 
