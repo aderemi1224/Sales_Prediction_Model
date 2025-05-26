@@ -23,9 +23,8 @@ This is a simple web application built using [Streamlit](https://streamlit.io/) 
 
 - Python 3.7+
 - Installed Python packages:
-  ```bash
-  pip install streamlit pandas joblib scikit-learn
-````
+- bash
+- pip install streamlit pandas joblib scikit-learn
 
 ## 🧠 Models Used
 
@@ -34,12 +33,12 @@ This is a simple web application built using [Streamlit](https://streamlit.io/) 
 
 Both models were trained using the same feature set and a shared preprocessing pipeline (e.g., one-hot encoding for categorical variables).
 
-Models should be saved in the directory `Sales_Prediction_Model/` as:
+Models is saved in the directory `Sales_Prediction_Model/` as:
 
 * `random_forest_model.pkl`
 * `linear_model.pkl`
 
-Each `.pkl` file should include the full pipeline (preprocessing + model).
+Each `.pkl` file include the full pipeline (preprocessing + model).
 
 ---
 
